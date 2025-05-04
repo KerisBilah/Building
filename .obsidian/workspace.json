@@ -4,77 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "51be3174cded6470",
+        "id": "aa42e004f4a794c6",
         "type": "tabs",
         "children": [
           {
-            "id": "b13e140646e76bbc",
+            "id": "4a64417b09605513",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0 Workspace/- Core Theory/25-05-1 Appendix – Architectural Assumptions v2.3.md",
+                "file": "system/epistemology/theory/minimal-expressibility-theory-for-engineering-design.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "25-05-1 Appendix – Architectural Assumptions v2.3"
+              "title": "minimal-expressibility-theory-for-engineering-design"
             }
           },
           {
-            "id": "8fa16ee3827ef7a5",
+            "id": "83b7e60b240a3c60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0 Workspace/- Core Theory/25-05-03 Modular Epistemology for Theory Modules v3.md",
+                "file": "system/epistemology/theory/gradient-based-design-grammar.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "25-05-03 Modular Epistemology for Theory Modules v3"
-            }
-          },
-          {
-            "id": "2158d3b88a318b9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.0 Workspace/- Core Engineering/25-05-03 Appendix – Engineering Provenance Validation v1.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "25-05-03 Appendix – Engineering Provenance Validation v1"
-            }
-          },
-          {
-            "id": "e335982f832292a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.0 Workspace/- Core Engineering/25-05-03 Modular Epistemology for Engineering Modules v1.1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "25-05-03 Modular Epistemology for Engineering Modules v1.1"
-            }
-          },
-          {
-            "id": "805a06bdc3e0578f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.0 Workspace/- Core Theory/25-05-1 Foundational Priors v2.3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "25-05-1 Foundational Priors v2.3"
+              "title": "gradient-based-design-grammar"
             }
           }
         ],
@@ -135,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 527.5026054382324
+    "width": 451.5026054382324
   },
   "right": {
     "id": "e1d9c6228743f53b",
@@ -236,46 +194,46 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8fa16ee3827ef7a5",
+  "active": "1c5eb0f806159e47",
   "lastOpenFiles": [
-    "1.0 Workspace/- Core Theory/25-05-03 Epistemic Reflex Loop — Coordinating Projection, Contradiction, and Reflection.md",
-    "1.0 Workspace/- Core Theory/25-05-1 Foundational Priors v2.3.md",
-    "1.0 Workspace/- Core Theory/25-05-1 Appendix – Architectural Assumptions v2.3.md",
-    "1.0 Workspace/- Core Engineering/25-05-03 Modular Epistemology for Engineering Modules v1.1.md",
-    "1.0 Workspace/- Core Engineering/25-05-03 Appendix – Engineering Provenance Validation v1.md",
-    "1.0 Workspace/- Core Theory/25-05-03 Modular Epistemology for Theory Modules v3.md",
-    "1.0 Workspace/- Core Engineering/25-04-29 Infrastructure Requirements v1.1.md",
-    "1.0 Workspace/- Core Engineering/25-05-3 Engineering Environment.md",
-    "1.0 Workspace/- Core Engineering/Engineering Notebook/25-05-01 Engineering Environment Alignment.md",
-    "1.0 Workspace/- Core Engineering/25-05-01 UCSE Engine Specification Plan.md",
-    "1.0 Workspace/- Core Theory/25-04-28 Unified Constraint Satisfaction Engine (UCSE) v2.1.md",
-    "Untitled 2.md",
-    "1.0 Workspace/- Core Theory/25-04-30 Mathematical Stack v1.0.md",
-    "1.0 Workspace/- Core Theory/25-04-28 Before Belief v1.md",
-    "1.0 Workspace/- Core Theory/25-04-25 Agency as Causal Primitive v2.md",
-    "1.0 Workspace/- Core Theory/25-04-28 Constraint as Rhetoric v1.4.md",
-    "1.0 Workspace/- Core Theory/25-04-28 Between Worlds v1.0.md",
-    "1.0 Workspace/- Core Theory/Visual Specification Template Diagram Name ⬡PVx.y v1.0.md",
-    "I don't want to trash yet/Untitled 4.md",
-    "I don't want to trash yet/R-Agent as Causal Primitive.md",
-    "I don't want to trash yet/25-04-24 Reprojection and Feedback-Enabling Reflexivity in the Semantic Manifold.md",
+    "system/epistemology/theory/minimal-expressibility-theory-for-engineering-design.md",
+    "system/epistemology/engineering/modular-epistemology-engineering-modules.md",
+    "system/epistemology/theory/gradient-based-design-grammar.md",
+    "system/epistemology/engineering/minimal-theory-for-belief-traceability.md",
+    "system/epistemology/foundational-priors.md",
+    "system/epistemology/theory/before-belief-pre-agentic-projection.md",
+    "system/epistemology/theory/belief-deformation-theory.md",
+    "system/epistemology/theory/rewrite-do-calculus-topological.md",
+    "system/- Guides/background-primer.md",
+    "system/epistemology/theory/math-stack-semantic-architecture.md",
+    "system/epistemology/theory/constraint-as-rhetoric.md",
+    "system/epistemology/theory/semantic-drift-emergent-closure.md",
+    "system/epistemology/pv-theory-header-modular-validation.md",
+    "system/epistemology/tv-core-modular-validation-architecture.md",
+    "system/- Research/images/pv1.2-contradiction-tensor-faux3D.png",
+    "intentweave/project-name-IntentWeave.md",
+    "system/notebook/Unedited notes by date/25-05-04.md",
     "I don't want to trash yet/Difference between semantic and agentic structure.md",
-    "I don't want to trash yet/Untitled 2 1.md",
-    "Untitled.md",
-    "Phrasebook-Irreducibility and Ethical Subjectivity.md",
-    "Untitled 1.md",
-    "1.0 Workspace/- Core Engineering/Engineering Notebook",
+    "I don't want to trash yet/25-04-24 Reprojection and Feedback-Enabling Reflexivity in the Semantic Manifold.md",
+    "I don't want to trash yet/R-Agent as Causal Primitive.md",
+    "intentweave",
+    "I don't want to trash yet/25-05-01 Engineering Environment Alignment.md",
+    "I don't want to trash yet/Why Your Codebase Gets Weird and What to Do About It.md",
+    "system/epistemology/engineering/infrastructure-requirements.md",
+    "system/- Core Engineering/25-04-28 UCSE Perturbation and Sensitivity Map v1.md",
+    "system/- Core Engineering/1.8 Design Tension Annotations.md",
+    "system/- Core Engineering/25-05-01 UCSE Engine Specification Plan.md",
+    "system/epistemology/engineering/semantic-architecture-methods-stack.md",
+    "system/epistemology/engineering",
+    "system/epistemology/methods",
+    "system/epistemology/foundational",
+    "system/epistemology",
+    "system/reflex",
+    "assets",
+    "system/- Core Engineering/Engineering Notebook",
     "Excalidraw",
-    "Untitled",
-    "1.0 Workspace/- Research/Papers/Dan Sperber — Dan Sperber & Deirdre Wilson (1998) The mapping between the mental and the public lexicon. In P. Carruthers & J. Boucher (eds.), Thought and language (Cambridge University Press) 184-200_.pdf",
-    "1.0 Workspace/- Research/images/PV1.2_ContradictionTensor_Faux3D.png",
-    "1.0 Workspace/- Core Project",
-    "1.0 Workspace/- Research/images",
-    "1.0 Workspace/- Core Engineering",
-    "1.0 Workspace/- Core Theory",
-    "1.0 Workspace/- Research/Papers/The hierarchically mechanistic mind A free-energy formulation of the human psyche.pdf",
+    "system/- Research/Papers/Dan Sperber — Dan Sperber & Deirdre Wilson (1998) The mapping between the mental and the public lexicon. In P. Carruthers & J. Boucher (eds.), Thought and language (Cambridge University Press) 184-200_.pdf",
     "Pasted image 20250421132553.png",
-    "I don't want to trash yet",
     "Techniques/Pasted image 20250312073529.png"
   ]
 }
