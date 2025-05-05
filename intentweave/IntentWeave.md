@@ -1,12 +1,12 @@
-## ⬡ Project Name: **IntentWeave**
+## ⬡ Project Name: IntentWeave
 
-> **IntentWeave** is a lightweight, trace-aware middleware for expressing, combining, and projecting test intentions in semantically coherent engineering systems.
+> IntentWeave is a lightweight, trace-aware middleware for expressing, combining, and projecting test intentions in semantically coherent engineering systems.
 
 The name reflects:
 
 - _intent_ (engineering purpose, tied to belief traceability),    
 - _weaving_ (composability, design layering, constraint architecture),
-- and the architecture’s focus on **semantic traceability**.
+- and the architecture’s focus on semantic traceability.
 
 ## ⬡ Project Skeleton Structure
 
