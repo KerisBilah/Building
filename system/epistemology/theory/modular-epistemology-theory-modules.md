@@ -1,11 +1,11 @@
 ---
 title: Modular Epistemology for Theory Modules
 aliases:
-  - Theory Modular Epistemology
-  - Epistemic Schema
-  - Provenance Validation System
-  - Theory Module Structure
-  - Semantic Agency Epistemology
+  - "Theory Modular Epistemology"
+  - "Epistemic Schema"
+  - "Provenance Validation System"
+  - "Theory Module Structure"
+  - "Semantic Agency Epistemology"
 pv_tags:
   - PV0.1
   - PV1.x
@@ -22,8 +22,10 @@ tags:
   - provenance
   - semantic-architecture
 status: stable
-version: v3
-version-notes: First establishment of independent validation layer for theoretical integrity. Defines test tagging, structure, and first tests.
+version: "3.0"
+version-notes: >
+  First establishment of independent validation layer for theoretical integrity. 
+  Defines test tagging, structure, and first tests.
 created: 2025-04-23
 updated: 2025-05-03
 priority: highest
@@ -33,8 +35,11 @@ related:
   - "[[foundational-priors]]"
   - "[[pv-theory-header-modular-validation]]"
   - "[[tv-core-modular-validation-architecture]]"
-summary: |
-  This document defines the Modular Epistemology system for theory modules in the Semantic Agency Architecture. It establishes the structural template, validation schema, and provenance-tagging practices for all theory documents. Every claim is bound to PV-tagged assumptions, enabling auditability, semantic coherence, and controlled evolution. Companion to the Engineering Epistemology and TV Validation Core.
+summary: >
+  This document defines the Modular Epistemology system for theory modules in the Semantic Agency Architecture. 
+  It establishes the structural template, validation schema, and provenance-tagging practices for all theory documents. 
+  Every claim is bound to PV-tagged assumptions, enabling auditability, semantic coherence, and controlled evolution. 
+  Companion to the Engineering Epistemology and TV Validation Core.
 audit:
   status: Manual audit completed
   last_audit: 2025-05-03
@@ -382,22 +387,26 @@ If a structural PV assumption changes meaningfully:
 Each document must carry a YAML frontmatter:
 
 ```yaml
+---
 title:
-aliases: 
-tags: 
-status:
+aliases:
+pv_tags:
+tags:
+status: 
+version:
+version-notes:
+created:
+updated: 
+project: 
+priority: 
 author:
-version: 
-created: 
-updated: 
-priority:
-project:
 related:
-pv-dependencies:
+summary:
 audit:
-  status: 
-  last_audit: 
-  notes: >
+  status:
+  last_audit:
+  notes:
+---
 ```
 
 Each document must carry minimal audit metadata (in YAML frontmatter or internal footer):

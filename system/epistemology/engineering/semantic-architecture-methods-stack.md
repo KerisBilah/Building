@@ -1,6 +1,6 @@
 ---
 title: Semantic Architecture — Methods Stack
-version: v1.1
+version: "1.1"
 status: active
 author: Bee
 created: 2025-04-29
@@ -14,12 +14,7 @@ tags:
   - projection
   - modulation
   - pv-aligned
-related:
-  - foundational-priors-v2.3.md
-  - constraint-as-rhetoric.md
-  - rewriting-do-calculus.md
-  - ucse-engine-plan.md
-pv-tags:
+pv_tags:
   - PV3.0
   - PV3.3
   - PV3.6
@@ -31,19 +26,26 @@ pv-tags:
   - PV-E8.x
   - PV-E9.x
   - PV-E10.x
-  - PV-E11.x (planned)
+  - PV-E11.x
+related:
+  - "[[foundational-priors-v2.3]]"
+  - "[[constraint-as-rhetoric]]"
+  - "[[rewriting-do-calculus]]"
+  - "[[ucse-engine-plan]]"
 summary: >
   Enumerates field modulation, traversal, smoothing, and rhetorical constraint procedures
   used in the Semantic Agency Architecture. All methods conform to PV tags and engineering modularity standards,
   enabling reversible semantic traversal, dynamic rhetorical shaping, and tensor field preparation for belief projection.
-exports:
-  - markdown
-  - latex
 audit:
-  status: "manual-audit completed"
+  status: "Manual audit completed"
   last_audit: "2025-05-04"
-  notes: "Methods structured, PV-traced, and tagged by maturity. Matches Modular Epistemology Engineering Stack v1.0."
+  notes: >
+    Methods structured, PV-traced, and tagged by maturity. Matches Modular Epistemology Engineering Stack v1.0.
+  exports:
+    - markdown
+    - latex
 ---
+
 
 
 # Semantic Architecture — Methods Stack

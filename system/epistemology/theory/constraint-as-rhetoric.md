@@ -1,9 +1,10 @@
 ---
 title: Constraint as Rhetoric — Resolution Strategies in Topological Semantic Systems
+author: Bee
 aliases:
-  - Constraint as Rhetoric
-  - Resolution Strategies in Semantic Systems
-  - Rhetorical Constraint Theory
+  - "Constraint as Rhetoric"
+  - "Resolution Strategies in Semantic Systems"
+  - "Rhetorical Constraint Theory"
 pv_tags:
   - PV0.1
   - PV1.1
@@ -43,23 +44,29 @@ tags:
   - canonical
 status: canonical
 version: "1.4"
-version-notes: Audited for PV compliance; inserted §3 Traversal Bridge; added PV3.7 Scaffold Promotion; cleaned ethical-safety section; formal structure now complete.
-created: 2025-04-??
+version-notes: >
+  Audited for PV compliance; inserted §3 Traversal Bridge; added PV3.7 Scaffold Promotion; 
+  cleaned ethical-safety section; formal structure now complete.
+created: 2025-04-24
 updated: 2025-04-28
 priority: high
 project: semantic-agency-architecture
-author: Bee
 related:
   - "[[modular-epistemology-theory-modules]]"
   - "[[foundational-priors-v2.3]]"
   - "[[pv-theory-header-modular-validation]]"
-summary: |
-  Develops a field-theoretic account of constraint as an expressive, rhetorical force. Shows how rhetorical priors (π-morphisms) bias collapse paths, how traversal/UCSE sculpt the semantic manifold before belief projection, and how adaptive smoothing, scaffolds, and rolling closures create a living ecology for semantic resolution. Provides full PV-tag integration and sensitivity mapping for safe, traceable theory work.
+summary: >
+  Develops a field-theoretic account of constraint as an expressive, rhetorical force. 
+  Shows how rhetorical priors (π-morphisms) bias collapse paths, how traversal/UCSE sculpt 
+  the semantic manifold before belief projection, and how adaptive smoothing, scaffolds, 
+  and rolling closures create a living ecology for semantic resolution. 
+  Provides full PV-tag integration and sensitivity mapping for safe, traceable theory work.
 audit:
   status: Manual audit completed
   last_audit: 2025-04-28
-  notes: |
-    Conforms to theory-module template; PV table and perturbation map verified; ready for reflex-loop integration.
+  notes: >
+    Conforms to theory-module template; PV table and perturbation map verified; 
+    ready for reflex-loop integration.
 ---
 
 # Constraint as Rhetoric — Resolution Strategies in Topological Semantic Systems

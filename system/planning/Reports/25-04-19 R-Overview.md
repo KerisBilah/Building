@@ -22,7 +22,7 @@
     I noticed “A Minimal Theory of Agency” is canonical — I imagine it’s deeply entangled with how you’re thinking about field modulation and contradiction. Is that a site of ongoing re-articulation?
 
 
-> Input [[25-04-16 Action Category-Compatible]] and [[25-04-16 White Paper-Reinforcing the Category-Theoretic Foundations of a Fibered Semantic Architecture]]
+> Input [[25-04-16 Action Category-Compatible x]] and [[25-04-16 White Paper-Reinforcing the Category-Theoretic Foundations of a Fibered Semantic Architecture]]
 
 ## Reflections
 

@@ -1,10 +1,10 @@
 ---
 title: Modular Epistemology for Engineering Modules
 aliases:
-  - Engineering Modular Epistemology
-  - Engineering Epistemology
-  - Engineering Schema
-  - Belief Projection Closure 
+  - "Engineering Modular Epistemology"
+  - "Engineering Epistemology"
+  - "Engineering Schema"
+  - "Belief Projection Closure"
 pv_tags:
   - PV1.2
   - PV1.3
@@ -32,7 +32,7 @@ tags:
   - provenance
   - epistemic-infrastructure
 status: canonical
-version: 1.1
+version: "1.1"
 version-notes: >
   Canonical schema for engineering practices under the semantic architecture. Defines soft provenance validation,
   dual-loop methodology, and systemic closure awareness for epistemic engineering workflows.
@@ -42,17 +42,22 @@ priority: highest
 project: semantic-agency-architecture
 author: Bee
 related:
-  - "[[Foundational Priors v2.3]]"
+  - "[[foundational-priors-v2.3]]"
   - "[[pv-engineering-header-modular-validation]]"
   - "[[epistemic-reflex-loop-coordination-v1.0]]"
 summary: >
-  Defines the Modular Epistemology system for engineering modules within the Semantic Agency Architecture. This framework replaces traditional planning rituals with a dual-loop development method anchored in semantic tension, reflexivity, and provenance validation. Modules operate through test-first belief declarations, closure declarations, and gradual integration into a structurally aware engineering ecology.
+  Defines the Modular Epistemology system for engineering modules within the Semantic Agency Architecture. 
+  This framework replaces traditional planning rituals with a dual-loop development method anchored in semantic 
+  tension, reflexivity, and provenance validation. Modules operate through test-first belief declarations, closure 
+  declarations, and gradual integration into a structurally aware engineering ecology.
 audit:
   status: "Manual audit completed"
   last_audit: "2025-05-03"
   notes: >
-    Canonical schema aligned with Engineering PV Header v1.1 and Reflex Loop specification. Fully interoperable with RGB design phases, PV trace inference, and drift-aware closure metrics.
+    Canonical schema aligned with Engineering PV Header v1.1 and Reflex Loop specification. 
+    Fully interoperable with RGB design phases, PV trace inference, and drift-aware closure metrics.
 ---
+
 
 # 1. Introduction: Why This Exists
 
@@ -896,24 +901,6 @@ Tranches may trigger alerts if sync decays, or if belief fails to stabilise afte
 > Use `@tranche:` to track not just what we believe,  
 > but which sets of beliefs are meant to align — and when they don’t.
 
-
----
-title: Appendix – Engineering Provenance Validation v1.1
-aliases:
-  - Engineering PV Header
-  - Engineering Spec PV
-tags: []
-created: 2025-04-29
-author: Bee
-version: v1
-status: stable
-exports:
-  - format: yaml
----
-
-> Spec pair  
-> Concept & commentary → 
-> Formal PV header   → *this file*
 
 # Appendix – Engineering Provenance Validation v1.1
 

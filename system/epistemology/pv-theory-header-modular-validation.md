@@ -1,11 +1,11 @@
 ---
 title: PV Theory Header – Modular Validation
 aliases:
-  - Theory PV Header
-  - PV Schema Header
-  - Theory Provenance Header
-  - Modular Theory PV Spec
-  - Architectural Assumptions
+  - "Theory PV Header"
+  - "PV Schema Header"
+  - "Theory Provenance Header"
+  - "Modular Theory PV Spec"
+  - "Architectural Assumptions"
 pv_tags:
   - PV-Header
   - PV1.1
@@ -43,19 +43,27 @@ tags:
   - provenance-validation
   - epistemology
 status: stable
-version: v2.3
+version: "2.3"
+version-notes: >
+  Defines canonical PV tagging schema for theory modules. Formalises tag hierarchy, dependency scope, 
+  and epistemic assumptions for modular validation across the architecture.
 created: 2025-04-22
 updated: 2025-04-25
+priority: highest
+project: semantic-agency-architecture
 author: Bee
-exports:
-  - format: yaml
 summary: >
-  Canonical, machine-readable header defining the PV tag system. Used to validate modular components across theory, engineering, and epistemology. This document anchors the architectural assumptions behind semantic field projection, agency emergence, and closure mechanics.
+  Canonical, machine-readable header defining the PV tag system. Used to validate modular components 
+  across theory, engineering, and epistemology. This document anchors the architectural assumptions 
+  behind semantic field projection, agency emergence, and closure mechanics.
+audit:
+  status: Manual audit completed
+  last_audit: 2025-04-25
+  notes: >
+    Header structure stable. Tag definitions match all referenced ⬡PVx.y elements across theory stack.
+  exports:
+    - format: yaml
 ---
-
-> Spec pair  
-> Concept & commentary → [[foundational-priors]]  
-> Formal PV header   → *this file*
 
 ## ⬡ Provenance Theory Validation Header  
 ⬡[PV-Header]

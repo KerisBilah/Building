@@ -1,3 +1,55 @@
+---
+title: Gradient-Based Design Grammar (GBDG v0.1)
+aliases:
+  - GBDG
+  - Gradient Design Idioms
+  - Semantic Gradient Grammar
+  - Minimal Expression Grammar
+  - Pre-Constraint Design Encoding
+version: "0.1"
+version-notes: >
+  Initial surface grammar for encoding engineering intent under METED v0.1. Defines idiom schema, minimal join conditions, 
+  and design bundle semantics. Constraint resolution deferred; rhetorical modulation postponed.
+status: draft
+created: 2025-05-05
+updated: 2025-05-05
+priority: high
+author: Bee
+project: semantic-agency-architecture
+tags:
+  - design-grammar
+  - minimal-expression
+  - engineering-spec
+  - modular-epistemology
+  - pv-aligned
+  - METED-compliant
+pv_tags:
+  - PV0.1
+  - PV1.1
+  - PV1.2
+  - PV1.3
+  - PV2.2
+  - PV2.3
+  - PV3.1
+  - PV3.7
+  - PV6.11
+related:
+  - "[[Minimal Expressibility Theory for Engineering Design (METED v0.1)]]"
+  - "[[Minimal Theory for Belief Traceability (MTBT v0.1)]]"
+  - "[[modular-epistemology-engineering-modules]]"
+  - "[[ucse-engine-specification-plan]]"
+summary: >
+  A semantic surface grammar for expressing design intent through idioms encoded as gradient structures in the semantic field 𝓕. 
+  GBDG enables pre-constraint encoding of engineering meaning while deferring projection and execution. Defines idiom primitives, 
+  bundle conditions, and failure modes under METED’s strict constraints: five formal objects, one collapse rule, and a three-tier 
+  trace schema. Supports composable, expressive design that is legible and traceable — but not yet executable.
+audit:
+  status: Manual audit pending
+  last_audit: pending
+  notes: >
+    Grammar scaffold complete. Idiom structures conform to METED v0.1. Awaiting idiom table schema and reflex-loop interface definition.
+---
+
 # Gradient-Based Design Grammar (GBDG v0.1)
 
 ## 1. Motivating Intuition

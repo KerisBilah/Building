@@ -1,11 +1,11 @@
 ---
 title: Between Worlds — Semantic Drift and Emergent Closure
 aliases:
-  - Semantic Drift and Closure
-  - Worlds
-  - Closure Lifecycle
-  - Drift-to-Belief Dynamics
-version: v1.0
+  - "Semantic Drift and Closure"
+  - "Worlds"
+  - "Closure Lifecycle"
+  - "Drift-to-Belief Dynamics"
+version: "1.0"
 status: canonical
 author: Bee
 created: 2025-04-27
@@ -18,11 +18,6 @@ tags:
   - rhetorical-modulation
   - closure-mechanics
   - pv-aligned
-related:
-  - foundational-priors-v2.2.md
-  - pv-header-architectural-assumptions.md
-  - constraint-as-rhetoric.md
-  - agency-as-causal-primitive.md
 pv_tags:
   - PV1.3
   - PV1.5
@@ -35,24 +30,25 @@ pv_tags:
   - PV3.11
   - PV4.3
   - PV-AI0
+related:
+  - "[[foundational-priors-v2.2]]"
+  - "[[pv-header-architectural-assumptions]]"
+  - "[[constraint-as-rhetoric]]"
+  - "[[agency-as-causal-primitive]]"
 summary: >
   Explores how semantic modulation evolves through drift, bias, and competition phases before resolving
   into belief-level closure. Defines the five-phase closure lifecycle and introduces the idea of semantic
   ecology, chorus scaffolds, and shared projection events. Shows how rhetorical morphisms and affective
   kernels bias drift resolution and agent formation.
-exports:
-  - markdown
-  - latex
 audit:
-  status: under review
+  status: Manual audit pending
   last_audit: pending
-  notes: Clean phase model complete; optional diagrams and drift metrics pending.
+  notes: >
+    Clean phase model complete; optional diagrams and drift metrics pending.
+  exports:
+    - markdown
+    - latex
 ---
-
-
-> Architectural Dependency Notice  
-> Depends on [[foundational-priors]] and [[pv-theory-header-modular-validation]] 
-> Re-audit required if ⬡[PV1.x], ⬡[PV2.x], or ⬡[PV3.x] change.
 
 # Worlds v1.0 — Semantic Drift & Emergent Closure 
 ⬡[PV-Core]

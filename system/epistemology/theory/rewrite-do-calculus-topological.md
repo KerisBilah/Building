@@ -1,13 +1,59 @@
 ---
-title: Rewriting Do-Calculus-Toward a Topological Theory of Intervention in Belief Space
-tags: []
-status: draft
+title: Rewriting Do-Calculus — Toward a Topological Theory of Intervention in Belief Space
+aliases:
+  - "Topological Do-Calculus"
+  - "Intervention in Belief Space"
+  - "Belief Deformation Theory"
+  - "Topological Belief Space Deformation"
+tags:
+  - core-theory
+  - belief-dynamics
+  - causal-inference
+  - semantic-projection
+  - topological-intervention
+  - modular-epistemology
+  - PV-ready
+status: canonical
 version: "1.0"
+version-notes: >
+  Canonical formalisation of topological intervention. Modularised projection and collapse structure.
+created: 2025-04-29
 updated: 2025-04-29
+priority: high
+author: Bee
+project: semantic-agency-architecture
+pv_tags:
+  - PV1.1
+  - PV1.2
+  - PV1.3
+  - PV1.4
+  - PV1.5
+  - PV2.2
+  - PV2.3
+  - PV3.0
+  - PV3.1
+  - PV3.5
+  - PV3.11
+  - PV4.1
 related:
   - "[[foundational-priors]]"
   - "[[pv-theory-header-modular-validation]]"
+  - "[[before-belief]]"
+  - "[[semantic-architecture-methods-stack]]"
+  - "[[constraint-as-rhetoric]]"
+summary: >
+  This paper reformulates causal inference in belief space as topological deformation rather than graphical manipulation.
+  It defines a functorial projection from the semantic manifold into stratified belief space, and introduces smoothing-aware, teleology-sensitive causal operators.
+  Classical do-calculus is reconceptualized as warp-aware deformation logic across belief attractors.
+audit:
+  status: "Internal draft audit"
+  last_audit: "2025-04-29"
+  notes: >
+    PV structure complete. Modular layout aligns with system architecture.
+    Collapse, reprojection, and smoothing-aware causal operators formalised.
+    Awaiting reflex audit of intervention topology for canonicalisation.
 ---
+
 # Rewriting Do-Calculus: Toward a Topological Theory of Intervention in Belief Space
 
 ⬡Status: Rough Draft v1

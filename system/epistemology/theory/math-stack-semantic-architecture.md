@@ -1,26 +1,22 @@
 ---
 title: Math Stack — Semantic Architecture
-aliases:
-  - Mathematical Stack of the Semantic Architecture
-  - Methods Stack
-  - Mathematical Methods Reference
-version: v1.0
-status: in-progress
 author: Bee
+aliases:
+  - "Mathematical Stack of the Semantic Architecture"
+  - "Methods Stack"
+  - "Mathematical Methods Reference"
+version: "1.0"
+status: in-progress
 created: 2025-04-30
 updated: 2025-04-30
+priority: highest
+project: semantic-agency-architecture
 tags:
   - methods-stack
   - semantic-math
   - modular-epistemology
   - pv-aligned
   - projection-math
-priority: highest
-project: semantic-agency-architecture
-related:
-  - foundational-priors-v2.2.md
-  - pv-header-architectural-assumptions.md
-  - tv-core-modular-validation-architecture.md
 pv_tags:
   - PV1.1
   - PV1.2
@@ -38,18 +34,23 @@ pv_tags:
   - PV5.1
   - PV5.4
   - PV-AI0
+related:
+  - "[[foundational-priors-v2.2]]"
+  - "[[pv-header-architectural-assumptions]]"
+  - "[[tv-core-modular-validation-architecture]]"
 summary: >
   Formal catalogue and justification of the mathematical methods used across the Semantic Agency Architecture.
   Integrates tensorial, variational, and categorical structures with the Modular Validation system, emphasizing
   structural coherence, projection integrity, and rhetorical traceability. Functions as a foundational document
   for both theory validation and engineering implementation.
-exports:
-  - markdown
-  - latex
 audit:
-  status: under construction
+  status: Manual audit pending
   last_audit: pending
-  notes: Initial module structure complete. Awaiting metric finalization and TV tag integration.
+  notes: >
+    Initial module structure complete. Awaiting metric finalization and TV tag integration.
+  exports:
+    - markdown
+    - latex
 ---
 
 > This document defines the mathematical formalism underpinning the Semantic Agency Architecture.  

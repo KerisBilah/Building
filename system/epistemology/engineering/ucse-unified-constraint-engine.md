@@ -1,10 +1,10 @@
 ---
 title: UCSE – Unified Constraint Satisfaction Engine
 aliases:
-  - UCSE
-  - Unified Constraint System
-  - Constraint Engine with PTD
-  - Tensorial UCS
+  - "UCSE"
+  - "Unified Constraint System"
+  - "Constraint Engine with PTD"
+  - "Tensorial UCS"
 pv_tags:
   - PV3.7
   - PV2.2
@@ -21,22 +21,35 @@ tags:
   - modular-engineering
   - contradiction-handling
 status: canonical
-version: v2.1
+version: "2.1"
+version-notes: >
+  Mature tensorial decomposition engine. Scaffold operator integrated. PV-trace complete for contradiction and closure.
 created: 2025-04-19
 updated: 2025-04-28
 author: Bee
-exports:
-  - markdown
-  - latex
 priority: highest
-dependencies:
-  - foundational-priors-v2.2.md
-  - pv-header-architectural-assumptions.md
-  - constraint-as-rhetoric.md
-  - agency-as-causal-primitive.md
+project: semantic-agency-architecture
+related:
+  - "[[foundational-priors-v2.2]]"
+  - "[[pv-header-architectural-assumptions]]"
+  - "[[constraint-as-rhetoric]]"
+  - "[[agency-as-causal-primitive]]"
 summary: >
-  Modular constraint satisfaction engine operating on semantic tensor fields. UCSE reconciles contradiction and guides closure through partial decompositions, scaffold formation, and tension-based projection. Defines agentive emergence through warp persistence and tensor failure, aligning with PV3.7, PV2.2, and PV1.3.1.
+  Modular constraint satisfaction engine operating on semantic tensor fields. 
+  UCSE reconciles contradiction and guides closure through partial decompositions, 
+  scaffold formation, and tension-based projection. Defines agentive emergence 
+  through warp persistence and tensor failure, aligning with PV3.7, PV2.2, and PV1.3.1.
+audit:
+  status: "Manual audit completed"
+  last_audit: "2025-04-28"
+  notes: >
+    Fully tagged per PV standard. Semantic decomposition logic, contradiction handling, 
+    and scaffold integration verified.
+  exports:
+    - markdown
+    - latex
 ---
+
 
 # Unified Constraint Satisfaction Engine (UCSE)
 

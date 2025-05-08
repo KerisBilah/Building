@@ -1,8 +1,8 @@
 ---
 title: Agency as Causal Primitive
 aliases:
-  - Minimal Theory of Agency
-  - Semantic Agency Architecture Core
+  - "Minimal Theory of Agency"
+  - "Semantic Agency Architecture Core"
 pv_tags:
   - PV0.1
   - PV1.1
@@ -27,6 +27,7 @@ pv_tags:
   - PV5.3
   - PV5.4
   - PV6.11
+  - PV-AI0
 tags:
   - semantic-architecture
   - agency-theory
@@ -53,9 +54,9 @@ audit:
   status: "Manual audit completed"
   last_audit: "2025-04-24"
   notes: >
-    Verified against PV Header v2.3; conforms to theory-module template; ready for ongoing
-    reflex-loop integration.
+    Audited against PV Header v2.3. Complies with theory-module template. Ready for reflex-loop use.
 ---
+
 
 # Agency as Causal Primitive
 

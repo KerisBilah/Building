@@ -1,12 +1,12 @@
 ---
 title: PV Core – Mathematical Summary of the Semantic Agency Architecture
 aliases:
-  - Semantic Field Geometry
-  - Core Tensor Field Model
-  - PV Core Specification
-  - Formal Math Spec
-  - Semantic Tensor Math
-  - PV Core Mathematical Summary
+  - "Semantic Field Geometry"
+  - "Core Tensor Field Model"
+  - "PV Core Specification"
+  - "Formal Math Spec"
+  - "Semantic Tensor Math"
+  - "PV Core Mathematical Summary"
 pv_tags:
   - PV-Core
   - PV1.1
@@ -30,22 +30,33 @@ tags:
   - closure-conditions
   - pv-aligned
 status: draft
-version: v1.0
+version: "1.0"
+version-notes: >
+  Defines foundational tensor model and symbolic structure for belief projection and closure dynamics.
 created: 2025-04-25
 updated: 2025-04-25
 author: Bee
-exports:
-  - markdown
-  - latex
-dependencies:
-  - foundational-priors-v2.1.md
-  - pv-header-architectural-assumptions.md
-  - modular-epistemology-v1.0.md
+project: semantic-agency-architecture
+priority: highest
+related:
+  - "[[foundational-priors-v2.1]]"
+  - "[[pv-header-architectural-assumptions]]"
+  - "[[modular-epistemology-v1.0]]"
 summary: >
-  Formal mathematical backbone for the Semantic Agency Architecture. Defines the tensorial substrate of the semantic field 𝓕, projection mechanics via 𝓒, and closure thresholds driven by contradiction Ξ and relevance R. Establishes equations and symbolic conventions for belief emergence, rhetorical morphisms, and traceable agent formation. Companion to PV Header and Modular Epistemology specs.
+  Formal mathematical backbone for the Semantic Agency Architecture. 
+  Defines the tensorial substrate of the semantic field 𝓕, projection mechanics via 𝓒, and closure thresholds 
+  driven by contradiction Ξ and relevance R. Establishes equations and symbolic conventions for belief emergence, 
+  rhetorical morphisms, and traceable agent formation. Companion to PV Header and Modular Epistemology specs.
+audit:
+  status: Manual audit pending
+  last_audit: pending
+  notes: >
+    Core mathematical structure defined. Symbolic grammar and PV tag linkages stable. 
+    Requires further consistency pass against MTBT and METED formalisms.
+  exports:
+    - markdown
+    - latex
 ---
-
-
 
 # Semantic Agency Architecture — Mathematical Summary ⬡[PV-Core]
 

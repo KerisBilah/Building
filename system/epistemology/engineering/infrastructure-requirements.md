@@ -1,8 +1,10 @@
 ---
 title: Infrastructure Requirements
 aliases: 
-  - ERL, Reflex Loop
-  - Theory–Engineering Feedback
+  - "Infrastructure Requirements"
+  - "Reflex Loop Infrastructure"
+  - "Semantic Architecture Middleware"
+  - "Coordination Layer"
 tags: 
   - semantic-architecture
   - reflex-loop
@@ -10,17 +12,12 @@ tags:
   - coordination
 status: canonical
 author: Bee
-version: v1.1
+version: "1.1"
 created: 2025-05-03
 updated: 2025-05-03
 priority: highest
 project: semantic-agency-architecture
-related:
-  - modular-epistemology-engineering-modules
-  - epistemic-reflex-loop
-  - ucse-engine-specification-plan
-  - engineering-environment-plan
-pv-dependencies:
+pv_tags:
   - PV-E0.1
   - PV-E2.x
   - PV-E5.x
@@ -28,19 +25,23 @@ pv-dependencies:
   - PV-E12.x
   - PV-E13.x
   - PV-E14.x
+related:
+  - "[[modular-epistemology-engineering-modules]]"
+  - "[[epistemic-reflex-loop]]"
+  - "[[ucse-engine-specification-plan]]"
+  - "[[engineering-environment-plan]]"
+summary: >
+  Defines the middleware, folder structure, reflex tracking, and coordination protocols required to support 
+  traceable engineering development in the Semantic Agency Architecture. Anchors Modular Epistemology, closure 
+  traceability, and reflex loop integrity across tooling, logs, and MVT specifications.
 audit:
   status: "Manual audit completed"
   last_audit: "2025-05-03"
   notes: >
     Middleware structure validated for reflex loop integration.
     Reflex Prompt Surface, Closure Drift Monitor, and Tranche Rhythm Scheduler confirmed as passive, non-coercive components.
-    Conforms to Modular Epistemology for Engineering Modules v1.1 and Provenance Validation v1.1.
-summary: >
-  Defines the middleware, folder structure, reflex tracking, and coordination protocols required to support traceable engineering development in the Semantic Agency Architecture. Anchors Modular Epistemology, closure traceability, and reflex loop integrity across tooling, logs, and MVT specifications.
-exports:
-  - markdown
-  - latex
----
+    Conform
+
 
 # Infrastructure Requirements Draft v1.1
 

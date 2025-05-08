@@ -1,12 +1,12 @@
 ---
 title: Before Belief — Pre-Agentic Projection, Functorial Collapse, and the Birth of Belief
 aliases:
-  - Pre-Agentic Collapse
-  - Birth of Belief
-  - Before Belief
-  - Pre-Belief Projection
-  - Pre-Agentic Projection
-version: v0.1
+  - "Pre-Agentic Collapse"
+  - "Birth of Belief"
+  - "Before Belief"
+  - "Pre-Belief Projection"
+  - "Pre-Agentic Projection"
+version: "0.1"
 status: canonical
 author: Bee
 created: 2025-04-28
@@ -19,11 +19,6 @@ tags:
   - closure
   - epistemology
   - pv-aligned
-related:
-  - foundational-priors-v2.2.md
-  - pv-header-architectural-assumptions.md
-  - agency-as-causal-primitive.md
-  - semantic-drift-emergent-closure.md
 pv_tags:
   - PV0.1
   - PV1.1
@@ -37,33 +32,26 @@ pv_tags:
   - PV3.5
   - PV3.11
   - PV4.2
+related:
+  - "[[foundational-priors-v2.2]]"
+  - "[[pv-header-architectural-assumptions]]"
+  - "[[agency-as-causal-primitive]]"
+  - "[[semantic-drift-emergent-closure]]"
 summary: >
   Defines how belief arises from irreducible semantic deformation. Models the pre-agentic
   structures that shape survival through functorial collapse, including relevance fields,
   contradiction tensors, pre-teleological drift, and narrative trace. Anchors belief as
   a compression-resilient projection event, situated within a topological field ecology.
-exports:
-  - markdown
-  - latex
 audit:
   status: "Manual audit completed"
   last_audit: "2025-04-29"
-  pv_version: "2.2"
-  conformance: true
-  notes: "Structurally PV-compliant. All sections tied to theory stack. Stable base for future elaboration."
+  notes: >
+    PV-conformant to v2.2. Structurally integrated with theory stack. Stable foundation for elaboration.
 ---
 
 
 # Before Belief — Pre-Agentic Projection, Functorial Collapse, and the Birth of Belief
 ⬡[PV-Core]
-
-> Architectural Dependency Notice  
-> Depends on [[Foundational Priors v2.2]] and [[Appendix – Architectural Assumptions v2.2]].  
-> Re-audit required if ⬡[PV1.x], ⬡[PV2.x], or ⬡[PV3.x] are updated.
-
-> 📘 Placement Note  
-> This theory module belongs in /system/theory/ because it defines the preconditions for belief projection, not the mechanics of constraint resolution or tensor decomposition.  
-> It models the pre-agentic semantic manifold ($\mathcal{F}$) and defines belief emergence as an epistemic survival event under tension — structurally upstream of agent modeling or narrative modulation.
 
 
 ## 1 Structural Template Conformance

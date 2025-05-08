@@ -1,9 +1,9 @@
 ---
 title: PV Engineering Header – Modular Validation
 aliases:
-  - Engineering PV Header
-  - Engineering Provenance Header
-  - Modular Engineering PV Spec
+  - "Engineering PV Header"
+  - "Engineering Provenance Header"
+  - "Modular Engineering PV Spec"
 pv_tags:
   - PV-E0.1
   - PV-E1.x
@@ -27,15 +27,27 @@ tags:
   - engineering-spec
   - semantic-architecture
 status: stable
-version: v1.1
+version: "1.1"
+version-notes: >
+  Establishes engineering PV tagging standard. Integrates modular auditability, UCSE compliance pathways, and epistemic declarations.
 created: 2025-04-29
 updated: 2025-05-01
+priority: highest
+project: semantic-agency-architecture
 author: Bee
-exports:
-  - format: yaml
 summary: >
-  Canonical PV header for modular engineering validation. Establishes optional, deferrable provenance tags to support gradual auditability in UCSE components. Companion to the Theory PV Header, this document governs epistemic declarations, compliance triggers, and traceability requirements for engineering modules.
+  Canonical PV header for modular engineering validation. Establishes optional, deferrable provenance tags 
+  to support gradual auditability in UCSE components. Companion to the Theory PV Header, this document governs 
+  epistemic declarations, compliance triggers, and traceability requirements for engineering modules.
+audit:
+  status: Manual audit pending
+  last_audit: pending
+  notes: >
+    Structure stable. Ready for integration into reflex-loop audits and incremental PV-tagging workflows.
+  exports:
+    - format: yaml
 ---
+
 
 > Spec pair  
 > Concept & commentary → 

@@ -1,10 +1,10 @@
 ---
 title: Epistemic Reflex Loop — Coordinating Projection, Contradiction, and Reflection
 aliases:
-  - ERL
-  - Reflex Loop
-  - Theory–Engineering Feedback
-  - Reflex Coordination
+  - "ERL"
+  - "Reflex Loop"
+  - "Theory–Engineering Feedback"
+  - "Reflex Coordination"
 pv_tags:
   - PV0.1
   - PV1.2
@@ -25,7 +25,7 @@ tags:
   - coordination
   - epistemic-feedback
 status: canonical
-version: v1.0
+version: "1.0"
 version-notes: >
   Formalises the reflex loop between theory and engineering within the Semantic Agency Architecture.
   Introduces the endofunctorial epistemic loop coordinating projection, contradiction, and reflective correction.
@@ -44,13 +44,16 @@ related:
   - "[[constraint-as-rhetoric-resolution-topological-systems]]"
   - "[[between-worlds-semantic-drift-and-emergent-closure]]"
 summary: >
-  The Epistemic Reflex Loop (ERL) defines the topological and procedural interface between theory and engineering in the semantic agency framework. It tracks projection from theoretical constructs into engineering form, classifies contradiction events, and routes reflection into PV revision or branch pruning. The ERL supports architectural learning, tranche synchrony, and adaptive closure through systemic feedback.
+  The Epistemic Reflex Loop (ERL) defines the topological and procedural interface between theory and engineering in the semantic agency framework. 
+  It tracks projection from theoretical constructs into engineering form, classifies contradiction events, and routes reflection into PV revision or branch pruning. 
+  The ERL supports architectural learning, tranche synchrony, and adaptive closure through systemic feedback.
 audit:
   status: "Manual audit completed"
   last_audit: "2025-05-03"
   notes: >
-    Reflex geometry verified. Loop formalisation consistent with Modular Epistemology and PV structures. Ready for integration with closure monitoring and tranche sync logic.
----
+    Reflex geometry verified. Loop formalisation consistent with Modular Epistemology and PV structures. 
+    Re
+
 
 # 1.1 Motivating Intuition 
 ⬡[PV0.1]

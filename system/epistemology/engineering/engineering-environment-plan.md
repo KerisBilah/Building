@@ -1,10 +1,10 @@
 ---
 title: Engineering Environment Plan
 aliases:
-  - Engineering Stack
-  - UCSE Engineering Lab
-  - UCSE Stack
-version: v0.2
+  - "Engineering Stack"
+  - "UCSE Engineering Lab"
+  - "UCSE Stack"
+version: "0.2"
 status: draft
 author: Bee
 created: 2025-04-29
@@ -18,11 +18,6 @@ tags:
   - reflex-loop
   - erl-middleware
   - semantic-architecture
-related:
-  - modular-epistemology-engineering-modules.md
-  - foundational-priors-v2.3.md
-  - epistemic-reflex-loop-v1.0.md
-  - infrastructure-requirements-v1.1.md
 pv_tags:
   - PV-E0.1
   - PV-E2.x
@@ -30,18 +25,25 @@ pv_tags:
   - PV-E9.x
   - PV-E11.x
   - PV-E12.x
+related:
+  - "[[modular-epistemology-engineering-modules]]"
+  - "[[foundational-priors-v2.3]]"
+  - "[[epistemic-reflex-loop-v1.0]]"
+  - "[[infrastructure-requirements-v1.1]]"
 summary: >
   Specifies the Engineering Environment and Middleware Stack for the Unified Constraint Satisfaction Engine (UCSE),
   with reflex-loop integration, audit-tagged commits, and modular visualisation pathways.
   Aligns with Foundational Priors v2.3 and Modular Epistemology for Engineering.
-exports:
-  - markdown
-  - latex
 audit:
-  status: manual-audit completed
+  status: "Manual audit completed"
   last_audit: 2025-05-03
-  notes: Front matter harmonised; ERL hooks and PV-commit protocols normalised.
+  notes: >
+    Front matter harmonised; ERL hooks and PV-commit protocols normalised.
+  exports:
+    - markdown
+    - latex
 ---
+
 
 
 # Engineering Environment & Stack for UCSE / Semantic Architecture v0.2

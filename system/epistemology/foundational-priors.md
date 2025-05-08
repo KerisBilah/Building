@@ -1,9 +1,9 @@
 ---
 title: Foundational Priors v2.3
 aliases:
-  - Architectural Priors
-  - Constraint Assumptions
-  - Rhetorical Constraint Model
+  - "Architectural Priors"
+  - "Constraint Assumptions"
+  - "Rhetorical Constraint Model"
 pv_tags:
   - PV0.1
   - PV1.1
@@ -64,7 +64,7 @@ summary: >
   Narrated exposition of the architectural priors that govern semantic resolution.
   Defines the manifold/constraint vocabulary, closure threshold, rhetorical priors,
   pre-agentive teleology, relevance-conditioned smoothing, and the metric architecture
-  that underwrites adaptive stability.  Serves as the human-readable twin to the
+  that underwrites adaptive stability. Serves as the human-readable twin to the
   machine-readable Appendix A header; every structural claim is PV-tagged for audit.
 audit:
   status: "Manual audit completed"
@@ -73,12 +73,6 @@ audit:
     PV coverage checked against Header v2.3; perturbation map validated; still marked
     in-progress until reflex-loop harmonisation is finalised.
 ---
-
-> Architectural Dependency Notice  
-> This document depends on:  
-> • [[Modular Epistemology v1.0]]  
-> • [[Appendix – Architectural Assumptions v2.2]]  
-> Any change to rhetorical priors, closure logic, or resolution pathways must be re-audited via the ⬡ Provenance Validation Schema.
 
 # Foundational Priors 
 ⬡[PV-Core]
