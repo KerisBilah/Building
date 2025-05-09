@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b07abfb869d481ee",
+        "id": "d9c673e603462ace",
         "type": "tabs",
         "children": [
           {
-            "id": "a4e9817a144de359",
+            "id": "e1d5485c4d9db1f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/epistemology/theory/constraint-as-rhetoric.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "constraint-as-rhetoric"
-            }
-          },
-          {
-            "id": "a218be1ac6b044c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/planning/Reports/25-04-25 R-Assessment of  \"25-04-25 Agency as Causal Primitive\".md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "25-04-25 R-Assessment of  \"25-04-25 Agency as Causal Primitive\""
-            }
-          },
-          {
-            "id": "8716cf3e894e7fb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/planning/- Actions/condensed-action-list.md",
+                "file": "system/planning/guides/publication-checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "condensed-action-list"
-            }
-          },
-          {
-            "id": "7b3aa0029d7f7713",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/epistemology/engineering/semantic-architecture-methods-stack.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "semantic-architecture-methods-stack"
+              "title": "publication-checklist"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 574.5026054382324
+    "width": 318.50271224975586
   },
   "right": {
     "id": "e1d9c6228743f53b",
@@ -222,45 +179,45 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a218be1ac6b044c5",
+  "active": "1c5eb0f806159e47",
   "lastOpenFiles": [
-    "system/planning/Reports/25-04-22 R-Designing for Expressiveness.md",
-    "system/planning/Reports/25-04-20 R-Semantic Agency Architecture.md",
-    "system/planning/Reports/25-04-19 R-Overview.md",
-    "system/planning/Reports/25-04-19 R-Compatibility  (ACP) ⇄  (UCSE).md",
-    "system/planning/Reports/25-04-25 R-Assessment of  \"25-04-25 Agency as Causal Primitive\".md",
-    "system/planning/Reports/25-04-25 R-State-of-Play Report.md",
+    "archive/I don't want to trash yet/25-05-01 Engineering Environment Alignment.md",
+    "system/planning/guides/publication-checklist.md",
+    "system/planning/guides/SageMath images and code.md",
+    "system/planning/guides/core-visual-targets -v1.0.md",
+    "system/planning/guides/file-naming.md",
+    "system/planning/guides/external-observability-protocol-v0.1.md",
+    "system/planning/guides/document-map-v1.0.md",
+    "system/planning/guides/background-primer.md",
+    "system/planning/image making.md",
     "???.md",
-    "25-04-16 White Paper-Reinforcing the Category-Theoretic Foundations of a Fibered Semantic Architecture.md",
-    "ucse-project/ucse.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "memory 25-05-05.md",
-    "system/epistemology/pv-theory-header-modular-validation.md",
-    "system/planning/- Actions/action-list-complete.md",
-    "system/planning/- Actions/condensed-action-list.md",
-    "system/epistemology/engineering/semantic-architecture-methods-stack.md",
-    "system/planning/- Actions/planned-action-table.md",
-    "system/epistemology/theory/gradient-based-design-grammar.md",
-    "system/epistemology/theory/math-stack-semantic-architecture.md",
-    "system/epistemology/theory/semantic-drift-emergent-closure.md",
-    "system/epistemology/theory/before-belief-pre-agentic-projection.md",
-    "system/epistemology/theory/modular-epistemology-theory-modules.md",
-    "system/epistemology/theory/rewrite-do-calculus-topological.md",
-    "system/epistemology/foundational-priors.md",
-    "system/epistemology/theory/constraint-as-rhetoric.md",
-    "system/epistemology/theory/belief-deformation-theory.md",
-    "ucse-project",
-    "system/- Research/images/pv1.2-contradiction-tensor-faux3D.png",
-    "intentweave",
-    "system/epistemology/engineering",
-    "system/epistemology/methods",
-    "system/epistemology/foundational",
-    "system/epistemology",
-    "system/reflex",
-    "assets",
-    "system/- Core Engineering/Engineering Notebook",
-    "Excalidraw",
+    "archive/I don't want to trash yet/R-Agent as Causal Primitive.md",
+    "system/planning/research/images/pv1.2-contradiction-tensor-faux3D.png",
+    "system/planning/research/papers/Biology, Buddhism, and AI Care as the Driver of Intelligence.pdf",
+    "system/planning/research/papers/Causation as Folk Science.pdf",
+    "system/planning/research/papers/Conceptual Spaces, Generalisation Probabilities and Perceptual Categorisation.md",
+    "system/planning/research/papers/Cultural Affordances- Scaffolding Local Worlds Through Shared Intentionality and Regimes of Attention.pdf",
+    "system/planning/research/papers/Dan Sperber — Dan Sperber & Deirdre Wilson (1998) The mapping between the mental and the public lexicon. In P. Carruthers & J. Boucher (eds.), Thought and language (Cambridge University Press) 184-200_.pdf",
+    "system/planning/research/papers/Johnson Gibson Logic.pdf",
+    "system/planning/research/papers/Learning Object Affordances, From Sensory–Motor Coordination to Imitation.pdf",
+    "system/research/papers/Logic Tensor Networks.pdf",
+    "system/planning/research/papers/Minimal self-modles and FEP.pdf",
+    "system/planning/research/papers/RelevanceTheory2016.pdf",
+    "system/planning/research/papers/The Helmholtz Machine.pdf",
+    "system/planning/visual-spec-diagram-PVx.y-v1.0.md",
+    "system/planning/publication-plan.md",
+    "system/planning/integration-capture-table.md",
+    "system/planning/reports/25-04-25 R-State-of-Play Report.md",
+    "system/planning/reports/25-04-25 R-Assessment of  \"25-04-25 Agency as Causal Primitive\".md",
+    "system/planning/reports/25-04-22 R-Designing for Expressiveness.md",
+    "system/planning/reports/25-04-20 R-Semantic Agency Architecture.md",
+    "system/planning/reports/25-04-19 R-Overview.md",
+    "system/planning/reports/25-04-19 R-Compatibility  (ACP) ⇄  (UCSE).md",
+    "system/planning/reports/25-04-16 R-Updating Theory of Semantic Field Dynamics.md",
+    "system/planning/reports/25-04-16 R-Updating System Description.md",
+    "system/planning/reports/25-04-07 Report.md",
+    "system/planning/actions/action-list-complete.md",
+    "system/planning/actions/condensed-action-list.md",
     "Pasted image 20250421132553.png",
     "Techniques/Pasted image 20250312073529.png"
   ]

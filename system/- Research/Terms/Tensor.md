@@ -1,1 +1,0 @@
-A tensor is a multilinear object that maps vectors and covectors (forms) to scalars. In coordinate form, it's an array with a certain rank, transforming in a specific way under coordinate changes.

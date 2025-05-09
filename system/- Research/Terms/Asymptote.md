@@ -1,1 +1,0 @@
-An asymptote is a line (often vertical or horizontal) that a function approaches but does not touch or cross, usually as the input goes to infinity or a specific finite point.

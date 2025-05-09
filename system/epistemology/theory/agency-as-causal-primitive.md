@@ -41,7 +41,7 @@ created: 2025-04-16
 updated: 2025-04-24
 priority: high
 project: semantic-agency-architecture
-author: Bee
+author: Benjamin Jones
 related:
   - "[[foundational-priors-v2.3]]"
   - "[[pv-theory-header-modular-validation]]"
@@ -481,24 +481,20 @@ $$
 $$
 
 Where:
-
 - $\text{MB}(\mathcal A)$ is the Markov blanket region enveloping agent $\mathcal A$,
 - $\mathcal M_{\text{anchor}}(x)$ is the anchoring mass at each point,
 - $dx$ is the volume element over the manifold.
 
 Interpretation:
-
 - Low $\rho_{\text{meta}}$ indicates the agent has become highly legible — its internal tension is mostly projected.
 - High $\rho_{\text{meta}}$ indicates the agent retains considerable unrevealed semantic warp — implying hidden capacity, strategic opacity, or resilience against compression.
 
 This provides a diagnostic lever for:
-
 - Strategic analysis: Agents preserving high residual warp may resist coordination or exhibit latent divergence.
 - Safety monitoring: High $\rho_{\text{meta}}$ zones signal agent cores less susceptible to external modulation, requiring additional attention for traceability.
 - Dynamic modeling: Residual irreducibility influences adaptive capacity under evolving constraint landscapes.
 
 Thus, $\rho_{\text{meta}}$ connects agent legibility directly to field curvature, anchoring, and warp persistence.
-
 > Clarification (Markovian Deformation Envelopes)
 
 In this architecture, when we refer to an agent’s "Markov blanket," we are speaking not of a classical Markov blanket (as in discrete Bayesian networks), but of a Markovian Deformation Envelope — a semantic boundary in $\mathcal{F}$ where field gradients (relevance $R$, contradiction $\Xi$, teleological flow $\phi$) attenuate sufficiently to approximate conditional shielding.
@@ -526,7 +522,6 @@ While $\rho_{\text{meta}}$ tracks *residual internal tension*, these metrics qua
 ##### Communicative Tension $\theta_{\text{comm}}$
 
 We define:
-
 $$
 \theta_{\text{comm}}(\mathcal{A}_i, \mathcal{A}_j)
 = \int_{\Omega}
